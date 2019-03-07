@@ -33,3 +33,6 @@ The `+= CONSTANT CONSTANT` **is necessary**, otherwise it won't work
 `+=` means "add this amount"
 
 `-=` means "subtract this amount"
+
+### The above is [mostly] bedrock specific
+If you would like to see more syntax help, please view [this link](https://minecraft.gamepedia.com/Scoreboard) [Minecraft Gamepedia]
